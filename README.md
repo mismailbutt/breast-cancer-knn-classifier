@@ -45,5 +45,12 @@ Confusion Matrix:
 - Add cross-validation
 
 ## 👤 Author
-Decode Labs — AI Internship Project
-[LinkedIn](https://www.linkedin.com/in/mismailbutt) · [GitHub](https://github.com/mismailbutt)
+**Ismail** — BS AI Student, UET Lahore
+Intern at Decode labs
+
+---
+
+## 📫 Contact
+**LinkedIn:** https://www.linkedin.com/in/mismailbutt
+
+**GitHub:** https://github.com/mismailbutt
