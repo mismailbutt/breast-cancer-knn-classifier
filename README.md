@@ -22,7 +22,7 @@ Python 3 · scikit-learn (KNeighborsClassifier, StandardScaler)
 git clone https://github.com/mismailbutt/breast-cancer-knn-classifier
 cd breast-cancer-knn-classifier
 pip install scikit-learn
-python knn_classifier.py
+python main.py
 ```
 
 ## 📊 Results
